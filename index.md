@@ -12,15 +12,26 @@ title: Home
   <a href="/places" style="margin-right: 1rem;">Places I Visited</a>
   -->
 </nav>
+<div class="hero">
+  <div>
+    <h1 style="margin:0 0 .25rem 0;">Dr. Aman Abidi</h1>
+    <p style="margin:.1rem 0 0 0;">
+      Research Fellow, National Institute of Education (NIE), Nanyang Technological University (NTU), Singapore
+    </p>
+    <p style="margin:.3rem 0 0 0;">
+      <strong>Email:</strong> <a href="mailto:aman.abidi@nie.edu.sg">aman.abidi@nie.edu.sg</a>
+      · <strong>Alt:</strong> <a href="mailto:aman.abidi@gmail.com">aman.abidi@gmail.com</a>
+    </p>
+    <p style="margin:.3rem 0 0 0;">
+      <a href="https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en">Google Scholar</a> ·
+      <a href="https://orcid.org/0000-0002-3960-6259">ORCID</a> ·
+      <a href="https://github.com/amanabidi">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/amanabidi/">LinkedIn</a>
+    </p>
+  </div>
+  <img src="/assets/img/profile.jpg" alt="Dr. Aman Abidi headshot" class="hero__photo">
+</div>
 
-# Dr. Aman Abidi
-
-Research Fellow, National Institute of Education (NIE), Nanyang Technological University (NTU), Singapore
-
-**Email:** <aman.abidi@nie.edu.sg> · **Alt:** <aman.abidi@gmail.com>  
-[Google Scholar](https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-3960-6259) · [GitHub](https://github.com/amanabidi) · [LinkedIn](https://www.linkedin.com/in/amanabidi/)
-
----
 
 ## About
 I develop an analytics toolkit for **teacher reflective practice**, centred on classroom audio/video analysis with **NLP**, **prompt-engineering**, fine-tuned **LLMs**, and **RAG**. I coordinate partner schools, lead data collection, and supervise URECA undergraduates.
