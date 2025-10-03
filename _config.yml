@@ -1,0 +1,24 @@
+title: "Aman Abidi"
+description: "Research Fellow, National Institute of Education, Nanyang Technological University, Singapore"
+url: ""  # e.g., https://amanabidi.github.io (fill after publishing)
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: add a logo image at assets/img/profile.jpg and uncomment:
+# logo: /assets/img/profile.jpg
+
+author:
+  name: "Dr. Aman Abidi"
+  email: "aman.abidi@nie.edu.sg"
+
+# Social links (update as needed)
+social_links:
+  google_scholar: "https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-3960-6259"
+  github: "https://github.com/amanabidi"
+  linkedin: "https://www.linkedin.com/in/amanabidi/"
+  website: "https://amanabidi.wixsite.com/aabidi"
