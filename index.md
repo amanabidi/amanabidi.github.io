@@ -44,4 +44,7 @@ I develop an analytics toolkit for **teacher reflective practice**, centred on c
 - **Work Experience:** roles + locations map → [/experience](/experience)  
 - **Places I Visited:** personal travel map → [/places](/places)
 
-_Last updated: { "now" | date: "%Y-%m-%d" }_
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+        data-cf-beacon='{"token": "YOUR_TOKEN_HERE"}'></script>
+<!-- End Cloudflare Web Analytics -->
