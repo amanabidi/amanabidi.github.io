@@ -1,24 +1,14 @@
-title: "Aman Abidi"
-description: "Research Fellow, National Institute of Education, Nanyang Technological University, Singapore"
-url: ""  # e.g., https://amanabidi.github.io (fill after publishing)
-theme: jekyll-theme-minimal
-markdown: kramdown
+title: "Dr. Aman Abidi"
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Shown in the header under your name. HTML is allowed.
+description: |
+  Research Fellow, National Institute of Education (NIE), Nanyang Technological University (NTU), Singapore<br>
+  <strong>Email:</strong> <a href="mailto:aman.abidi@nie.edu.sg">aman.abidi@nie.edu.sg</a> &middot;
+  <a href="mailto:aman.abidi@gmail.com">aman.abidi@gmail.com</a><br>
+  <a href="https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en">Google Scholar</a> &middot;
+  <a href="https://orcid.org/0000-0002-3960-6259">ORCID</a> &middot;
+  <a href="https://github.com/amanabidi">GitHub</a> &middot;
+  <a href="https://www.linkedin.com/in/amanabidi/">LinkedIn</a>
 
-# Optional: add a logo image at assets/img/profile.jpg and uncomment:
-# logo: /assets/img/profile.jpg
-
-author:
-  name: "Dr. Aman Abidi"
-  email: "aman.abidi@nie.edu.sg"
-
-# Social links (update as needed)
-social_links:
-  google_scholar: "https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en"
-  orcid: "https://orcid.org/0000-0002-3960-6259"
-  github: "https://github.com/amanabidi"
-  linkedin: "https://www.linkedin.com/in/amanabidi/"
-  website: "https://amanabidi.wixsite.com/aabidi"
+# Shows the headshot in the header
+logo: /assets/Image/Hawthorn Park.jpg
