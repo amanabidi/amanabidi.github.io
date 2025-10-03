@@ -1,26 +1,5 @@
-/* Generic tweaks */
-body { line-height: 1.6; }
-h1, h2, h3 { margin-top: 1.2rem; }
 
-/* Simple responsive gallery */
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 12px;
-}
-.gallery figure {
-  margin: 0;
-  border: 1px solid #e5e5e5;
-  padding: 6px;
+/* Word cloud container tweaks */
+#wordcloud {
   background: #fafafa;
-}
-.gallery img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-.gallery figcaption {
-  font-size: 0.9rem;
-  margin-top: 4px;
-  color: #555;
 }
