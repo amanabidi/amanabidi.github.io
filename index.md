@@ -41,9 +41,10 @@ I develop an analytics toolkit for **teacher reflective practice**, centred on c
 ## Quick Links
 - **Selected Publications & Services:** overview + collaborators map → [/publications-services](/publications-services)  
 - **Talks & Outreach:** photos + highlights → [/talks-outreach](/talks-outreach)  
-- **Work Experience:** roles + locations map → [/experience](/experience)  
+- **Work Experience:** roles + locations map → [/experience](/experience)
+  <!--
 - **Places I Visited:** personal travel map → [/places](/places)
-
+-->
 <!-- Cloudflare Web Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
         data-cf-beacon='{"token": "YOUR_TOKEN_HERE"}'></script>
