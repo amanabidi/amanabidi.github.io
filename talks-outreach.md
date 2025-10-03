@@ -17,11 +17,22 @@ permalink: /talks-outreach
 
 
 ## Talks & Outreach (Selected)
+- **Invited Talk — National Institute of Education (NIE), Nanyang Technological University, Singapore**  
+  Toolkit for Teachers’ Reflective Practice (hosted by **Dr Gwendoline Quek**; project overview and demonstration).
+
+- **Teacher Professional Development (PD) Workshops**  
+  **Yusof Ishak Secondary School**; **New Town Secondary School**, Singapore — classroom analytics for questioning, engagement, and reflective practice.
 
 - **ICDE — IEEE International Conference on Data Engineering**  
   Paper presentation at the International Conference on Data Engineering (ICDE), Malaysia. **(2022)**
 
-- **IJCAI–PRICAI 2020**  
+- **ICDE — IEEE International Conference on Data Engineering**  
+  Paper presentation at the International Conference on Data Engineering (ICDE), Malaysia. **(2022)**
+
+- **ICDE — IEEE International Conference on Data Engineering**  
+  Paper presentation at the International Conference on Data Engineering (ICDE), Malaysia. **(2022)**
+
+- **IJCAI–PRICAI**  
   Paper presentation at IJCAI–PRICAI 2020. **(2021)**
 
 - **RBCDSAI International Summit on Data Science and AI**  
