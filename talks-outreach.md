@@ -10,7 +10,9 @@ permalink: /talks-outreach
   <a href="/publications-services" style="margin-right: 1rem;">Selected Publications & Services</a>
   <a href="/talks-outreach" style="margin-right: 1rem;">Talks & Outreach</a>
   <a href="/experience" style="margin-right: 1rem;">Work Experience</a>
+  <!--
   <a href="/places" style="margin-right: 1rem;">Places I Visited</a>
+  -->
 </nav>
 
 
@@ -33,6 +35,4 @@ Below are selected talks and outreach highlights. Add photos to `assets/img/talk
   </figure>
 </div>
 
-## How to add photos
-1. In your repo, create/upload images into **`assets/img/talks/`**.  
-2. Add corresponding `<figure>` blocks above with the correct file names and captions.
+
