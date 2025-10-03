@@ -2,6 +2,7 @@
 layout: default
 title: Places I Visited
 permalink: /places
+published: false
 ---
 
 
