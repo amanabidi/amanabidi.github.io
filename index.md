@@ -35,7 +35,13 @@ title: Home
 -->
 
 ## About
-I develop an analytics toolkit for **teacher reflective practice**, centred on classroom audio/video analysis with **NLP**, **prompt-engineering**, fine-tuned **LLMs**, and **RAG**. I coordinate partner schools, lead data collection, and supervise URECA undergraduates.
+I am a Research Fellow at the National Institute of Education, Nanyang Technological University (Singapore). My work focuses on building an analytics toolkit to support teachers’ reflective practice through classroom audio/video analysis, drawing on natural language processing, prompt engineering, fine-tuned large language models, and retrieval-augmented generation. I coordinate school partnerships and data collection, and supervise undergraduate researchers contributing to this effort.
+
+I completed my PhD at Swinburne University of Technology on graph mining in bipartite networks. My publications include articles and papers in IEEE Transactions on Knowledge and Data Engineering, the IEEE International Conference on Data Engineering, and IJCAI-PRICAI. I have taught across programming and data-science units and serve as a reviewer for venues such as IEEE TKDE, ICDE, and the World Wide Web Journal.
+
+**Research interests**: AI in Education, Learning Analytics, NLP, LLM fine-tuning, RAG, Graph Mining.
+
+**Collaboration**: I welcome collaborations with schools, researchers, and industry on classroom analytics, teacher professional learning, and trustworthy LLM applications in education.
 
 > “Humility is the ornament of knowledge.” — *Imam Ali (a.s.)*
 
