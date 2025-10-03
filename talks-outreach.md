@@ -16,23 +16,22 @@ permalink: /talks-outreach
 </nav>
 
 
-# Talks & Outreach
+## Talks & Outreach (Selected)
 
-Below are selected talks and outreach highlights. Add photos to `assets/img/talks/` and reference them here.
+- **ICDE — IEEE International Conference on Data Engineering**  
+  Paper presentation at the International Conference on Data Engineering (ICDE), Malaysia. **(2022)**
 
-<div class="gallery">
-  <figure>
-    <img src="/assets/img/talks/talk1.jpg" alt="Talk photo 1">
-    <figcaption>ICDE Paper Presentation (Malaysia, 2022)</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/talks/talk2.jpg" alt="Talk photo 2">
-    <figcaption>IJCAI‑PRICAI Presentation (2020)</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/talks/workshop1.jpg" alt="Workshop photo">
-    <figcaption>Teacher PD Workshop — Reflective Practice (Singapore)</figcaption>
-  </figure>
-</div>
+- **IJCAI–PRICAI 2020**  
+  Paper presentation at IJCAI–PRICAI 2020. **(2021)**
+
+- **RBCDSAI International Summit on Data Science and AI**  
+  Attended RBCDSAI's International Summit on Data Science and AI. **(2020)**
+
+- **Australasian Database Conference (ADC), Melbourne, Australia**  
+  Attended the Australasian Database Conference. **(2020)**
+
+- **3-Minute Thesis (3MT), Swinburne University of Technology**  
+  Presented my research in the 3MT competition. **(2019)**
+
 
 
