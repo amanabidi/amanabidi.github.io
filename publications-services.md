@@ -18,10 +18,43 @@ permalink: /publications-services
 
 Below is a concise selection. See Google Scholar for the full list.
 
-- **A. Abidi**, F. Ali, C.L.G. Quek, R.E. Koh. *Using LLMs to support teacher reflections on using questions to deepen learning and promote student engagement.* **ASCILITE 2024**.  
-- **A. Abidi**, L. Chen, R. Zhou, C. Liu. *Searching Personalized k‑wing in Bipartite Graphs.* **IEEE TKDE 2022**.  
-- **A. Abidi**, L. Chen, C. Liu, R. Zhou. *On Maximizing the Vertex Coverage for Top‑k t‑Bicliques in Bipartite Graphs.* **ICDE 2022**.  
-- **A. Abidi**, R. Zhou, L. Chen, C. Liu. *Pivot‑based Maximal Biclique Enumeration.* **IJCAI‑PRICAI 2020**.  
+## Selected Publications {#publications}
+
+- **A. Abidi**, F. Ali, C. L. G. Quek, R. E. Koh (2024).  
+  **Using LLMs to support teacher reflections on using questions to deepen learning and promote student engagement**.  
+  *Proceedings of **ASCILITE 2024 — Australasian Society for Computers in Learning in Tertiary Education Conference***.  
+  DOI: [10.14742/apubs.2024.1195](https://doi.org/10.14742/apubs.2024.1195).
+
+- **A. Abidi**, L. Chen, R. Zhou, C. Liu (2024).  
+  **Searching Personalized *k*-wing in Bipartite Graphs — Extended Abstract (TKDE Poster Track).**  
+  *40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, The Netherlands.*  
+  DOI: [10.1109/ICDE60146.2024.00495](https://doi.org/10.1109/ICDE60146.2024.00495) · IEEE page: [computer.org](https://www.computer.org/csdl/proceedings-article/icde/2024/171500f727/1YOtqb6CwUw)
+
+- A. Das, **A. Abidi**, A. Shingane, M. Kiran (2023, preprint).  
+  **Balanced Butterfly Counting in Bipartite-Network**.  
+  *arXiv preprint*.  
+  URL: [arXiv:2308.07932](https://arxiv.org/abs/2308.07932).
+
+- **A. Abidi**, L. Chen, R. Zhou, C. Liu (2022).  
+  **Searching Personalized *k*-wing in Bipartite Graphs**.  
+  *IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*.  
+  DOI: [10.1109/TKDE.2022.3199592](https://doi.org/10.1109/TKDE.2022.3199592). 
+
+- **A. Abidi**, L. Chen, C. Liu, R. Zhou (2022).  
+  **On Maximizing the Vertex Coverage for Top-*k* *t*-Bicliques in Bipartite Graphs**.  
+  *2022 IEEE 38th International Conference on Data Engineering (ICDE 2022)*.  
+  Article page: [IEEE Computer Society Digital Library](https://www.computer.org/csdl/proceedings-article/icde/2022/088300c346/1FwFuCFcARG). 
+
+- **A. Abidi**, R. Zhou, L. Chen, C. Liu (2020).  
+  **Pivot-based Maximal Biclique Enumeration**.  
+  *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*.  
+  PDF: [ijcai.org/proceedings/2020/0492.pdf](https://www.ijcai.org/proceedings/2020/0492.pdf).
+
+- R. Singh, **A. Abidi**, M. A. Qadeer (2016).  
+  **SyncWorld: A Cloud Storage/Synchronization Service using Java and PHP**.  
+  *Thirteenth International Conference on Wireless and Optical Communications Networks (WOCN 2016)*.  
+  Open copy: [ResearchGate PDF](https://www.researchgate.net/profile/Aman-Abidi/publication/311313841_SyncWorld_A_cloud_storagesynchronization_service_using_Java_and_Php/links/5b591920aca272a2d66b9c23/SyncWorld-A-cloud-storage-synchronization-service-using-Java-and-Php.pdf) · TOC record: [Proceedings.com TOC](https://www.proceedings.com/content/032/032386webtoc.pdf). 
+
 
 ## Service
 - Reviewer: **IEEE TKDE**, **ICDE 2023**, **World Wide Web Journal**.  
