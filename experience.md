@@ -15,19 +15,20 @@ permalink: /experience
   -->
 </nav>
 
-
-# Work Experience
-
-The map shows the institutions and cities where I have worked, taught or supported operations.
-
-
-
 ## Roles (summary)
 - **Research Fellow**, NIE/NTU, Singapore (2023–present).  
 - **Research Fellow**, NTU, Singapore (2022–2023).  
 - **Sessional Tutor**, Deakin University & Swinburne University (2018–2022).  
 - **Casual eExams IT Support Officer**, Monash University (2022).  
 - **Assistant System Engineer**, Tata Consultancy Services (2015–2017, Hyderabad).
+  
+# Work Experience
+
+The map shows the institutions and cities where I have worked, taught or supported operations.
+
+
+
+
 
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
