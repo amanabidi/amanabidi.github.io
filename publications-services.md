@@ -22,7 +22,7 @@ Below is a concise selection. See Google Scholar for the full list.
 
 - **A. Abidi**, F. Ali, C. L. G. Quek, R. E. Koh (2024).  
   **Using LLMs to support teacher reflections on using questions to deepen learning and promote student engagement**.  
-  *Proceedings of **ASCILITE 2024 — Australasian Society for Computers in Learning in Tertiary Education Conference***.  
+  *Proceedings of ASCILITE 2024 — Australasian Society for Computers in Learning in Tertiary Education Conference*.  
   DOI: [10.14742/apubs.2024.1195](https://doi.org/10.14742/apubs.2024.1195).
 
 - **A. Abidi**, L. Chen, R. Zhou, C. Liu (2024).  
