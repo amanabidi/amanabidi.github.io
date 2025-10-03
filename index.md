@@ -3,19 +3,29 @@ layout: default
 title: Home
 ---
 
+
+<nav style="margin: 1rem 0; font-size: 0.95rem;">
+  <a href="/" style="margin-right: 1rem;">Home</a>
+  <a href="/publications-services" style="margin-right: 1rem;">Selected Publications & Services</a>
+  <a href="/talks-outreach" style="margin-right: 1rem;">Talks & Outreach</a>
+  <a href="/experience" style="margin-right: 1rem;">Work Experience</a>
+  <a href="/places" style="margin-right: 1rem;">Places I Visited</a>
+</nav>
+
+
 # Dr. Aman Abidi
 
-Research Fellow, National Institute of Education, Nanyang Technological University (NTU), Singapore  
-Email: <aman.abidi@nie.edu.sg> · [Google Scholar]({{ site.social_links.google_scholar }}) · [ORCID]({{ site.social_links.orcid }}) · [GitHub]({{ site.social_links.github }}) · [LinkedIn]({{ site.social_links.linkedin }})
+Research Fellow, National Institute of Education (NIE), Nanyang Technological University (NTU), Singapore
+
+**Email:** <aman.abidi@nie.edu.sg> · **Alt:** <aman.abidi@gmail.com>  
+[Google Scholar](https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-3960-6259) · [GitHub](https://github.com/amanabidi) · [LinkedIn](https://www.linkedin.com/in/amanabidi/)
 
 ---
 
-## About Me
-I am a Research Fellow at the National Institute of Education (NIE), Nanyang Technological University, Singapore. I lead the technical development of an analytics **toolkit for teachers’ reflective practice**, centred on classroom audio/video analysis with **NLP**, **prompt‑engineering**, **fine‑tuned LLMs**, and **RAG** methods. I coordinate with partner schools on data collection and timelines, and supervise URECA undergraduates contributing to the project.
+## About
+I develop an analytics toolkit for **teacher reflective practice**, centred on classroom audio/video analysis with **NLP**, **prompt‑engineering**, fine‑tuned **LLMs**, and **RAG**. I coordinate partner schools, lead data collection, and supervise URECA undergraduates.
 
-**Research interests:** AI in Education, Pedagogy, NLP, Fine‑tuning of LLMs, Retrieval‑Augmented Generation (RAG), Bipartite Networks, Graph Mining.
-
-> “You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving.” – Paul Kalanithi
+> “Humility is the ornament of knowledge.” — *Imam Ali (a.s.)*
 
 ---
 
@@ -26,45 +36,10 @@ I am a Research Fellow at the National Institute of Education (NIE), Nanyang Tec
 
 ---
 
-## Selected Publications
-See my [Google Scholar]({{ site.social_links.google_scholar }}) for the full list.
+## Quick Links
+- **Selected Publications & Services:** overview + collaborators map → [/publications-services](/publications-services)  
+- **Talks & Outreach:** photos + highlights → [/talks-outreach](/talks-outreach)  
+- **Work Experience:** roles + locations map → [/experience](/experience)  
+- **Places I Visited:** personal travel map → [/places](/places)
 
-- **A. Abidi**, F. Ali, C. L. G. Quek, R. E. Koh. *Using LLMs to support teacher reflections on using questions to deepen learning and promote student engagement.* **ASCILITE 2024**.  
-- **A. Abidi**, L. Chen, R. Zhou, C. Liu. *Searching Personalized k‑wing in Bipartite Graphs.* **IEEE TKDE 2022**.  
-- **A. Abidi**, L. Chen, C. Liu, R. Zhou. *On Maximizing the Vertex Coverage for Top‑k t‑Bicliques in Bipartite Graphs.* **ICDE 2022**.  
-- **A. Abidi**, R. Zhou, L. Chen, C. Liu. *Pivot‑based Maximal Biclique Enumeration.* **IJCAI‑PRICAI 2020**.  
-- R. Singh, **A. Abidi**, M. A. Qadeer. *SyncWorld: A cloud storage/synchronization service using Java and PHP.* **WOCN 2016**.
-
-> Links to papers (if available): TKDE 2022, ICDE 2022, IJCAI 2020 are widely indexed; you may add direct links next to each entry.
-
----
-
-## Talks & Outreach
-- **Paper Presentation** – International Conference on Data Engineering (ICDE), Malaysia, 2022.  
-- **Paper Presentation** – IJCAI‑PRICAI 2020.  
-- **3‑Minute Thesis (3MT) Faculty Finalist** – Swinburne University of Technology, 2019.  
-- **Teacher PD Workshop** – Using data for reflective practice, MOE Partner School, Singapore, 2025.
-
----
-
-## Teaching & Supervision (selected)
-- **Tutor** – *AI Literacy*, NTU, Aug–Nov 2025.  
-- **Supervisor** – URECA bachelor students: Speech recognition for *Singlish*, prompt‑engineering, visualisation tool (2024–).  
-- **Supervisor** – Research Assistant on classical ML for Singapore Teaching Practice areas (2025–).  
-- **Sessional Tutor** – Deakin University & Swinburne University of Technology (Research Methods, Intro to Programming/Data Science, 2018–2022).
-
----
-
-## Service
-- Reviewer: **IEEE TKDE**, **ICDE 2023**, **WWWJ**.  
-- PC Member: IEEE AISC 2023.
-
----
-
-## Contact
-**Email:** <aman.abidi@nie.edu.sg> · **Alternate:** <aman.abidi@gmail.com>  
-**Address:** 222 Westwood Avenue, The Floravale, Singapore 648355.
-
----
-
-_Last updated: {{ "now" | date: "%Y-%m-%d" }}_
+_Last updated: { "now" | date: "%Y-%m-%d" }_
