@@ -18,6 +18,16 @@ permalink: /experience
 
 The map shows the institutions and cities where I have worked, taught or supported operations.
 
+
+
+## Roles (summary)
+- **Research Fellow**, NIE/NTU, Singapore (2023–present).  
+- **Research Fellow**, NTU, Singapore (2022–2023).  
+- **Sessional Tutor**, Deakin University & Swinburne University (2018–2022).  
+- **Casual eExams IT Support Officer**, Monash University (2022).  
+- **Assistant System Engineer**, Tata Consultancy Services (2015–2017, Hyderabad).
+
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
@@ -73,10 +83,3 @@ The map shows the institutions and cities where I have worked, taught or support
   });
   if (bounds.length > 0) { map.fitBounds(bounds, {padding: [30,30]}); }
 </script>
-
-## Roles (summary)
-- **Research Fellow**, NIE/NTU, Singapore (2023–present).  
-- **Research Fellow**, NTU, Singapore (2022–2023).  
-- **Sessional Tutor**, Deakin University & Swinburne University (2018–2022).  
-- **Casual eExams IT Support Officer**, Monash University (2022).  
-- **Assistant System Engineer**, Tata Consultancy Services (2015–2017, Hyderabad).
