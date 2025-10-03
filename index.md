@@ -43,7 +43,7 @@ I completed my PhD at Swinburne University of Technology on graph mining in bipa
 
 **Collaboration**: I welcome collaborations with schools, researchers, and industry on classroom analytics, teacher professional learning, and trustworthy LLM applications in education.
 
-> “Humility is the ornament of knowledge.” — *Imam Ali (a.s.)*
+> “If I have seen further it is by standing on the shoulders of giants.” — *Isaac Newton*
 
 ---
 
