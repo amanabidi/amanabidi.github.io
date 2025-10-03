@@ -32,6 +32,35 @@ title: Home
   <img src="assets/Image/Hawthorn Park.jpg" alt="Dr. Aman Abidi headshot" class="hero__photo">
 </div>
 
+<!-- Combined Hero + About -->
+<section class="about-hero" id="about">
+  <img src="/assets/img/profile.jpg" alt="Dr. Aman Abidi headshot" class="about-hero__photo">
+  <div>
+    <h1 style="margin:0 0 .25rem 0;">Dr. Aman Abidi</h1>
+    <p style="margin:.1rem 0 0 0;">
+      Research Fellow, National Institute of Education (NIE), Nanyang Technological University (NTU), Singapore
+    </p>
+    
+    <p style="margin:.3rem 0 1rem 0;">
+      <strong>Email:</strong> <a href="mailto:aman.abidi@nie.edu.sg">aman.abidi@nie.edu.sg</a>
+      · <strong>Alt:</strong> <a href="mailto:aman.abidi@gmail.com">aman.abidi@gmail.com</a>
+      · <a href="https://scholar.google.com/citations?user=CoLi5Q8AAAAJ&hl=en">Google Scholar</a>
+      · <a href="https://orcid.org/0000-0002-3960-6259">ORCID</a>
+      · <a href="https://github.com/amanabidi">GitHub</a>
+      · <a href="https://www.linkedin.com/in/amanabidi/">LinkedIn</a>
+    </p>
+
+    <p>
+      I develop an analytics toolkit for <strong>teacher reflective practice</strong>, centred on classroom audio/video analysis with
+      <strong>NLP</strong>, <strong>prompt-engineering</strong>, fine-tuned <strong>LLMs</strong>, and <strong>RAG</strong>.
+      I coordinate partner schools, lead data collection, and supervise URECA undergraduates.
+    </p>
+
+    <blockquote style="margin:.75rem 0 0 0;">
+      “Humility is the ornament of knowledge.” — <em>Imam Ali (a.s.)</em>
+    </blockquote>
+  </div>
+</section>
 
 ## About
 I develop an analytics toolkit for **teacher reflective practice**, centred on classroom audio/video analysis with **NLP**, **prompt-engineering**, fine-tuned **LLMs**, and **RAG**. I coordinate partner schools, lead data collection, and supervise URECA undergraduates.
