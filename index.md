@@ -111,11 +111,4 @@ I develop an analytics toolkit for **teacher reflective practice**, centred on c
 
 ---
 
-## Quick Links
-- **Selected Publications & Services:** overview + collaborators map → [/publications-services](/publications-services)  
-- **Talks & Outreach:** photos + highlights → [/talks-outreach](/talks-outreach)  
-- **Work Experience:** roles + locations map → [/experience](/experience)
-<!--
-- **Places I Visited:** personal travel map → [/places](/places)
--->
 _Last updated: {{ "now" | date: "%Y-%m-%d" }}_
