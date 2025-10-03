@@ -9,7 +9,9 @@ title: Home
   <a href="/publications-services" style="margin-right: 1rem;">Selected Publications & Services</a>
   <a href="/talks-outreach" style="margin-right: 1rem;">Talks & Outreach</a>
   <a href="/experience" style="margin-right: 1rem;">Work Experience</a>
+  <!--
   <a href="/places" style="margin-right: 1rem;">Places I Visited</a>
+  -->
 </nav>
 
 
