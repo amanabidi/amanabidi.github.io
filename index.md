@@ -12,6 +12,7 @@ title: Home
   <a href="/places" style="margin-right: 1rem;">Places I Visited</a>
   -->
 </nav>
+<!--
 <div class="hero">
   <div>
     <h1 style="margin:0 0 .25rem 0;">Dr. Aman Abidi</h1>
@@ -31,7 +32,7 @@ title: Home
   </div>
   <img src="assets/Image/Hawthorn Park.jpg" alt="Dr. Aman Abidi headshot" class="hero__photo">
 </div>
-
+-->
 
 ## About
 I develop an analytics toolkit for **teacher reflective practice**, centred on classroom audio/video analysis with **NLP**, **prompt-engineering**, fine-tuned **LLMs**, and **RAG**. I coordinate partner schools, lead data collection, and supervise URECA undergraduates.
