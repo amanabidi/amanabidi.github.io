@@ -3,3 +3,22 @@
 #wordcloud {
   background: #fafafa;
 }
+/* Hero (name + photo) */
+.hero {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  margin: .25rem 0 1rem 0;
+}
+.hero__photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #e5e5e5;
+}
+@media (max-width: 640px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero__photo { justify-self: start; }
+}
