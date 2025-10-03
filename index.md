@@ -41,7 +41,7 @@ I develop an analytics toolkit for **teacher reflective practice**, centred on c
 
 ---
 
-## Word Cloud – Technologies, Research Areas & Organisations
+## Technologies, Research Areas & Organisations
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
