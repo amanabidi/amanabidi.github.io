@@ -29,7 +29,7 @@ title: Home
       <a href="https://www.linkedin.com/in/amanabidi/">LinkedIn</a>
     </p>
   </div>
-  <img src="/assets/img/profile.jpg" alt="Dr. Aman Abidi headshot" class="hero__photo">
+  <img src="/assets/image/Hawthorn Park.jpg" alt="Dr. Aman Abidi headshot" class="hero__photo">
 </div>
 
 
