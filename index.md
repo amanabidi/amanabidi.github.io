@@ -8,7 +8,9 @@ title: Home
   <a href="/publications-services" style="margin-right: 1rem;">Selected Publications & Services</a>
   <a href="/talks-outreach" style="margin-right: 1rem;">Talks & Outreach</a>
   <a href="/experience" style="margin-right: 1rem;">Work Experience</a>
+  <!--
   <a href="/places" style="margin-right: 1rem;">Places I Visited</a>
+  -->
 </nav>
 
 # Dr. Aman Abidi
@@ -100,7 +102,8 @@ I develop an analytics toolkit for **teacher reflective practice**, centred on c
 ## Quick Links
 - **Selected Publications & Services:** overview + collaborators map → [/publications-services](/publications-services)  
 - **Talks & Outreach:** photos + highlights → [/talks-outreach](/talks-outreach)  
-- **Work Experience:** roles + locations map → [/experience](/experience)  
+- **Work Experience:** roles + locations map → [/experience](/experience)
+<!--
 - **Places I Visited:** personal travel map → [/places](/places)
-
+-->
 _Last updated: {{ "now" | date: "%Y-%m-%d" }}_
